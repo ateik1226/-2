@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>舊逝</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>禁入廢墟</title>
+            <link>slides/%E7%A6%81%E5%85%A5%E5%BB%A2%E5%A2%9F.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>特意的保留，抵不過現實的殘酷。</description>
+            <media:description type="html">特意的保留，抵不過現實的殘酷。</media:description>
+            <media:thumbnail url="thumbs/%E7%A6%81%E5%85%A5%E5%BB%A2%E5%A2%9F.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%A6%81%E5%85%A5%E5%BB%A2%E5%A2%9F.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:35:19 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E7%A6%81%E5%85%A5%E5%BB%A2%E5%A2%9F.JPG</guid>
+        </item>
+        <item>
+            <title>火燒木</title>
+            <link>slides/%E7%81%AB%E7%87%92%E6%9C%A8.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>埋藏，堆叠，焚燒的痕跡。</description>
+            <media:description type="html">埋藏，堆叠，焚燒的痕跡。</media:description>
+            <media:thumbnail url="thumbs/%E7%81%AB%E7%87%92%E6%9C%A8.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%81%AB%E7%87%92%E6%9C%A8.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:29:35 +0800" cameraMake="Canon" cameraModel="Canon EOS 850D"/>
+            <guid isPermaLink="false">slides/%E7%81%AB%E7%87%92%E6%9C%A8.JPG</guid>
+        </item>
+        <item>
+            <title>灰燼</title>
+            <link>slides/%E7%81%B0%E7%87%BC.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>大火後帶走了生活與希望</description>
+            <media:description type="html">大火後帶走了生活與希望</media:description>
+            <media:thumbnail url="thumbs/%E7%81%B0%E7%87%BC.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/%E7%81%B0%E7%87%BC.jpg" width="1066" height="800"/>
+            <guid isPermaLink="false">slides/%E7%81%B0%E7%87%BC.jpg</guid>
+        </item>
+        <item>
+            <title>時過境遷</title>
+            <link>slides/%E6%99%82%E9%81%8E%E5%A2%83%E9%81%B7.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>只剩下幾張雜亂無章的椅子，仍然矗立著。</description>
+            <media:description type="html">只剩下幾張雜亂無章的椅子，仍然矗立著。</media:description>
+            <media:thumbnail url="thumbs/%E6%99%82%E9%81%8E%E5%A2%83%E9%81%B7.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/%E6%99%82%E9%81%8E%E5%A2%83%E9%81%B7.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:28:35 +0800" cameraMake="Apple" cameraModel="iPhone 13 Pro"/>
+            <guid isPermaLink="false">slides/%E6%99%82%E9%81%8E%E5%A2%83%E9%81%B7.jpg</guid>
+        </item>
+        <item>
+            <title>走入歷史</title>
+            <link>slides/%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>曾經的繁華伴隨新產業的注入而步入歷史。</description>
+            <media:description type="html">曾經的繁華伴隨新產業的注入而步入歷史。</media:description>
+            <media:thumbnail url="thumbs/%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:33:44 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2.JPG</guid>
+        </item>
+        <item>
+            <title>煉獄</title>
+            <link>slides/%E7%85%89%E7%8D%84.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>毀滅的印記與歷史一同印刻在墻垣之上。</description>
+            <media:description type="html">毀滅的印記與歷史一同印刻在墻垣之上。</media:description>
+            <media:thumbnail url="thumbs/%E7%85%89%E7%8D%84.jpg" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%85%89%E7%8D%84.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:40:28 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E7%85%89%E7%8D%84.jpg</guid>
+        </item>
+        <item>
+            <title>被看見的殘缺</title>
+            <link>slides/%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E6%AE%98%E7%BC%BA.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>殘缺的破口被填補上了木板,就像以為被遺忘的人仍然有人想著。</description>
+            <media:description type="html">殘缺的破口被填補上了木板,就像以為被遺忘的人仍然有人想著。</media:description>
+            <media:thumbnail url="thumbs/%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E6%AE%98%E7%BC%BA.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E6%AE%98%E7%BC%BA.JPG" width="1066" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:39:42 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E6%AE%98%E7%BC%BA.JPG</guid>
+        </item>
+        <item>
+            <title>回憶</title>
+            <link>slides/%E5%9B%9E%E6%86%B6.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>毀傷過境，卻得以煥發新生。
+</description>
+            <media:description type="html">毀傷過境，卻得以煥發新生。
+</media:description>
+            <media:thumbnail url="thumbs/%E5%9B%9E%E6%86%B6.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%9B%9E%E6%86%B6.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:37:59 +0800" cameraMake="Canon" cameraModel="Canon EOS 850D"/>
+            <guid isPermaLink="false">slides/%E5%9B%9E%E6%86%B6.JPG</guid>
+        </item>
+        <item>
+            <title>一路向幹</title>
+            <link>slides/%E4%B8%80%E8%B7%AF%E5%90%91%E5%B9%B9.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>看到的不是恐怖，是空簿</description>
+            <media:description type="html">看到的不是恐怖，是空簿</media:description>
+            <media:thumbnail url="thumbs/%E4%B8%80%E8%B7%AF%E5%90%91%E5%B9%B9.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E4%B8%80%E8%B7%AF%E5%90%91%E5%B9%B9.JPG" width="601" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 15:04:02 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E4%B8%80%E8%B7%AF%E5%90%91%E5%B9%B9.JPG</guid>
+        </item>
+        <item>
+            <title>絕處逢生</title>
+            <link>slides/%E7%B5%95%E8%99%95%E9%80%A2%E7%94%9F.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>儘管無法從下往上，卻能在不一樣的位置開出綠葉。</description>
+            <media:description type="html">儘管無法從下往上，卻能在不一樣的位置開出綠葉。</media:description>
+            <media:thumbnail url="thumbs/%E7%B5%95%E8%99%95%E9%80%A2%E7%94%9F.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%B5%95%E8%99%95%E9%80%A2%E7%94%9F.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:47:25 +0800" cameraMake="Apple" cameraModel="iPhone 13 Pro"/>
+            <guid isPermaLink="false">slides/%E7%B5%95%E8%99%95%E9%80%A2%E7%94%9F.jpg</guid>
+        </item>
+        <item>
+            <title>心血</title>
+            <link>slides/%E5%BF%83%E8%A1%80JPG.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>堅持的更多是不捨</description>
+            <media:description type="html">堅持的更多是不捨</media:description>
+            <media:thumbnail url="thumbs/%E5%BF%83%E8%A1%80JPG.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%BF%83%E8%A1%80JPG.JPG" width="601" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:39:32 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E5%BF%83%E8%A1%80JPG.JPG</guid>
+        </item>
+        <item>
+            <title>廢墟的生命</title>
+            <link>slides/%E5%BB%A2%E5%A2%9F%E7%9A%84%E7%94%9F%E5%91%BD.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>剩下的一點光源，像極了廢墟的生命線跳動著</description>
+            <media:description type="html">剩下的一點光源，像極了廢墟的生命線跳動著</media:description>
+            <media:thumbnail url="thumbs/%E5%BB%A2%E5%A2%9F%E7%9A%84%E7%94%9F%E5%91%BD.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%BB%A2%E5%A2%9F%E7%9A%84%E7%94%9F%E5%91%BD.JPG" width="601" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:41:36 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E5%BB%A2%E5%A2%9F%E7%9A%84%E7%94%9F%E5%91%BD.JPG</guid>
+        </item>
+        <item>
+            <title>望之窗</title>
+            <link>slides/%E6%9C%9B%E4%B9%8B%E7%AA%97.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>站在窗邊，絕望瞬間</description>
+            <media:description type="html">站在窗邊，絕望瞬間</media:description>
+            <media:thumbnail url="thumbs/%E6%9C%9B%E4%B9%8B%E7%AA%97.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E6%9C%9B%E4%B9%8B%E7%AA%97.JPG" width="601" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:44:18 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E6%9C%9B%E4%B9%8B%E7%AA%97.JPG</guid>
+        </item>
+        <item>
+            <title>百年</title>
+            <link>slides/%E7%99%BE%E5%B9%B4.jpg</link>
+            <pubDate>Thu, 13 Apr 2023 01:08:26 +0800</pubDate>
+            <description>你在這裏所走的每一步，都有可能跨過別人的故事。</description>
+            <media:description type="html">你在這裏所走的每一步，都有可能跨過別人的故事。</media:description>
+            <media:thumbnail url="thumbs/%E7%99%BE%E5%B9%B4.jpg" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%99%BE%E5%B9%B4.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:43:43 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E7%99%BE%E5%B9%B4.jpg</guid>
+        </item>
+        <item>
+            <title>重現曙光</title>
+            <link>slides/%E9%87%8D%E7%8F%BE%E6%9B%99%E5%85%89.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>重重廢墟之下，仍能重見溫暖的陽光。</description>
+            <media:description type="html">重重廢墟之下，仍能重見溫暖的陽光。</media:description>
+            <media:thumbnail url="thumbs/%E9%87%8D%E7%8F%BE%E6%9B%99%E5%85%89.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E9%87%8D%E7%8F%BE%E6%9B%99%E5%85%89.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:50:41 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E9%87%8D%E7%8F%BE%E6%9B%99%E5%85%89.JPG</guid>
+        </item>
+        <item>
+            <title>交替</title>
+            <link>slides/%E4%BA%A4%E6%9B%BF.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>新穎的繪畫刻印在破損的牆壁之上，🆕的活力替代了舊的生活。</description>
+            <media:description type="html">新穎的繪畫刻印在破損的牆壁之上，🆕的活力替代了舊的生活。</media:description>
+            <media:thumbnail url="thumbs/%E4%BA%A4%E6%9B%BF.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E4%BA%A4%E6%9B%BF.jpg" width="601" height="800"/>
+            <guid isPermaLink="false">slides/%E4%BA%A4%E6%9B%BF.jpg</guid>
+        </item>
+        <item>
+            <title>遺棄</title>
+            <link>slides/%E9%81%BA%E6%A3%84.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>遺棄的樓道裡留下的回憶畫作</description>
+            <media:description type="html">遺棄的樓道裡留下的回憶畫作</media:description>
+            <media:thumbnail url="thumbs/%E9%81%BA%E6%A3%84.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E9%81%BA%E6%A3%84.jpg" width="601" height="800"/>
+            <guid isPermaLink="false">slides/%E9%81%BA%E6%A3%84.jpg</guid>
+        </item>
+        <item>
+            <title>深處</title>
+            <link>slides/%E6%B7%B1%E8%99%95.jpg</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>從灰白欄杆望向深處，留下色彩的痕跡。</description>
+            <media:description type="html">從灰白欄杆望向深處，留下色彩的痕跡。</media:description>
+            <media:thumbnail url="thumbs/%E6%B7%B1%E8%99%95.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/%E6%B7%B1%E8%99%95.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:40:13 +0800" cameraMake="Apple" cameraModel="iPhone 13 Pro"/>
+            <guid isPermaLink="false">slides/%E6%B7%B1%E8%99%95.jpg</guid>
+        </item>
+        <item>
+            <title>隔別</title>
+            <link>slides/%E9%9A%94%E5%88%A5.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>隔網相望，陳年的氣息躍然於眼前。</description>
+            <media:description type="html">隔網相望，陳年的氣息躍然於眼前。</media:description>
+            <media:thumbnail url="thumbs/%E9%9A%94%E5%88%A5.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E9%9A%94%E5%88%A5.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:18:14 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E9%9A%94%E5%88%A5.JPG</guid>
+        </item>
+        <item>
+            <title>新時代</title>
+            <link>slides/%E6%96%B0%E6%99%82%E4%BB%A3.JPG</link>
+            <pubDate>Tue, 11 Apr 2023 11:20:49 +0800</pubDate>
+            <description>舊物存留，新世暢游。</description>
+            <media:description type="html">舊物存留，新世暢游。</media:description>
+            <media:thumbnail url="thumbs/%E6%96%B0%E6%99%82%E4%BB%A3.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/%E6%96%B0%E6%99%82%E4%BB%A3.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Mon, 03 Apr 2023 14:49:25 +0800" cameraMake="SONY" cameraModel="ILCE-7M4"/>
+            <guid isPermaLink="false">slides/%E6%96%B0%E6%99%82%E4%BB%A3.JPG</guid>
+        </item>
+    </channel>
+</rss>
